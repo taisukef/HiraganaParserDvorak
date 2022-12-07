@@ -12,3 +12,7 @@ console.log(parser.isComplete())
 console.log(parser.inputedRoma)
 console.log(parser.notInputedRoma)
 ```
+
+## HiraganaParser
+
+- [ひらがなをローマ字に変換するよ HiraganaParser](https://github.com/2ndPINEW/HiraganaParser)
